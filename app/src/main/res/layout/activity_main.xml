@@ -4,13 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <Button
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        android:id="@+id/UpdateList"
-        android:layout_margin="2dip"
-        android:text="Update SMS list" />
-
     <ListView
         android:id="@+id/smsList"
         android:layout_width="match_parent"
